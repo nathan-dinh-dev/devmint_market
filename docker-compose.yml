@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  node:
+    build: .
+    container_name: devmint-container
+    ports:
+      - "3000:3000"
+    stdin_open: true
+    tty: true
+# stdin_open and tty need to be true to run react application without crashing

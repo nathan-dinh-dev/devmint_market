@@ -11,7 +11,7 @@ An ENGR 10 Project. Click on the YouTube demonstration below! (The thumbnail)
 
 ## The Website
 - IMPORTANT NOTE: The website is not responsive. It'll only look good on 1920x1080 resolutions with a 100% zoom scale in Windows (very important).
-- Hosted on AWS S3: [Link to website]([http://devmintmarket.s3-website.us-east-2.amazonaws.com/])
+- Hosted on AWS S3: [Link to website](http://devmintmarket.s3-website.us-east-2.amazonaws.com/)
 - If you want to run the website through the code, you must have npm (Node.js). Navigate to the main directory of the project and run the command "npm start"
 
 ## Learning Objectives
